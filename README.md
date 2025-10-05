@@ -1,6 +1,10 @@
 # 🌌 ExoHunter AI: AI-Powered Exoplanet Discovery Platform
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/your-username/exohunter-ai)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![AI Model](https://img.shields.io/badge/AI-XGBoost%20%7C%20Anomaly%20Detection-orange)
+
 
 **ExoHunter AI** is an end-to-end, NASA-compliant platform that uses machine learning to detect and validate exoplanets from real Kepler, K2, and TESS mission data. Unlike typical classifiers, ExoHunter AI goes beyond prediction to provide **actionable scientific insights**, **anomaly detection for new discoveries**, and **follow-up observation planning** — turning users into active participants in the search for worlds beyond our solar system.
 
