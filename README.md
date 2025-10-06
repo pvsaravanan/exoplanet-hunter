@@ -43,7 +43,7 @@ For every candidate, estimates:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/pvsaravanan/exoplanet-hunter.git
-cd exohunter-ai
+cd exoplanet-hunter
 ```
 
 ### 2. Install Dependencies
